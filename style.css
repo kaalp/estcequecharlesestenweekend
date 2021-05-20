@@ -1,0 +1,42 @@
+/* ### MAIN ### */
+
+.main {
+  background-color: #ffffff;
+  background-color: white;
+  max-width: 1440px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  }
+
+a:link {
+text-decoration: none;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  max-width: 1440px;
+  margin: auto;
+}
+
+header{
+  height:200px;
+}
+
+.question{
+
+  text-align: center;
+  font-size: 3em;
+  height : 200px;
+}
+
+.reponse{
+
+  text-align: center;
+  font-size: 2em;
+  height : 200px;
+
+}
